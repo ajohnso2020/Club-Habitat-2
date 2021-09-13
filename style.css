@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    width: 375px;
+    background-color: coral;
+    line-height: 2em;
+}
